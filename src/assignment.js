@@ -38,7 +38,7 @@ function countEvenNumbers(arrayOfNumbers) {
         }
     }
     
-    return even_array.reduce((even_number, a) => even_number+a);
+    return even_array.length
 }
 assignment.countEvenNumbers = countEvenNumbers;
 
