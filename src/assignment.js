@@ -16,6 +16,9 @@ const assignment = {};
 function sumOfNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
 }
+let myArray = [2, 3, -1, 4, 5, -3, 18]
+sumOfNumbers(myArray)
+
 // assignment.sumOfNumbers = sumOfNumbers;
 
 /**
